@@ -18,3 +18,9 @@ Alternatively, you can create the symlink manually.
 ln -s ~/.config/dotfiles/vimrc ~/.vimrc
 ```
 
+### Brewfile
+
+To apply the Brewfile, run the following command
+```
+brew bundle --file=Brewfile
+```
